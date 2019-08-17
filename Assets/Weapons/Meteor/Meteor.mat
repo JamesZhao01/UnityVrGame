@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Meteor
+  m_Shader: {fileID: -6465566751694194690, guid: e5c48f12bb8cbda4bb2aabe3895a6106,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_7261EFC8: 2.5
+    m_Colors:
+    - Color_14B24E0E: {r: 203.33261, g: 27.678783, b: 7.4519806, a: 0}
+    - Color_1CB60BD4: {r: 0, g: 0, b: 0, a: 0}
+    - Color_98ADD6BB: {r: 14.25948, g: 3.866612, b: 0, a: 0}
+    - Vector2_2D63B648: {r: 0.1, g: 0, b: 0, a: 0}
